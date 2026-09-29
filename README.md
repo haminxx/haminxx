@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
 
-![Banner](/banner.jpg)
+![Banner](/banner-crop.jpg)
 
 </picture>
 </p>
